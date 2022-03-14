@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+export const App = () => {
+    return <section>
+        <div className={'overlays'}>
+            <div className={'top'}/>
+            <div className={'bottom'}/>
+        </div>
+        <article className={'card'}>
+            <div className={'banner'}/>
+            <section>
+                <img src={require('./images/image-victor.jpg')} alt="pic"/>
+                <section className={'card_info'}>
+                    <h1>Victor Crest</h1>
+                    <p>26</p>
+                </section>
+                <h6>London</h6>
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+                <div className={'divider'}/>
+                <section className={'social'}>
+                    <section>
+                        <h1>80K</h1>
+                        <p>Followers</p>
+                    </section>
+                    <section>
+                        <h1>803K</h1>
+                        <p>Likes</p>
+                    </section>
+                    <section>
+                        <h1>1.4K</h1>
+                        <p>Photos</p>
+                    </section>
+                </section>
+            </section>
+
+
+        </article>
+
+    </section>
+
 }
-
-export default App;
