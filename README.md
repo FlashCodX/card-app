@@ -3,7 +3,7 @@
 
 Just a quick challenge made for Frontend Mentor.
 
-> Check it out:  [https://flashcodx.github.io/nft-card-app/](https://flashcodx.github.io/nft-card-app/)
+> Check it out:  [https://flashcodx.github.io/card-app/](https://flashcodx.github.io/card-app/)
 
 
 ## Tech
