@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/card-app/static/css/main.22f4dafa.css",
+    "main.js": "/card-app/static/js/main.62e79f68.js",
+    "static/media/bg-pattern-card.svg": "/card-app/static/media/bg-pattern-card.b61daebd3cb4b885d10f.svg",
+    "index.html": "/card-app/index.html",
+    "static/media/bg-pattern-bottom.svg": "/card-app/static/media/bg-pattern-bottom.a34eb319c02ad49587c3.svg",
+    "static/media/bg-pattern-top.svg": "/card-app/static/media/bg-pattern-top.dae77b1febf9b29fe34e.svg",
+    "main.22f4dafa.css.map": "/card-app/static/css/main.22f4dafa.css.map",
+    "main.62e79f68.js.map": "/card-app/static/js/main.62e79f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f4dafa.css",
+    "static/js/main.62e79f68.js"
+  ]
+}
